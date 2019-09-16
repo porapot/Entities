@@ -1,0 +1,29 @@
+{
+  "id": "90cbf026-0448-4ee0-9c77-288b5e141e23",
+  "name": "courseType",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "ประถมศึกษา",
+      "synonyms": [
+        "ประถมศึกษา"
+      ]
+    },
+    {
+      "value": "มัธยมศึกษาตอนต้น",
+      "synonyms": [
+        "มัธยมศึกษาตอนต้น"
+      ]
+    },
+    {
+      "value": "มัธยมศึกษาตอนปลาย",
+      "synonyms": [
+        "มัธยมศึกษาตอนปลาย"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false,
+  "isRegexp": false
+}
